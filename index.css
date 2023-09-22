@@ -13,6 +13,8 @@ body {
 header {
   padding: 8rem;
   background-color: #ffd1dc;
+  color: white;
+  background: url("./images/banner.jpg");
   text-align: center;
 }
 
@@ -92,6 +94,8 @@ h2 {
   border: 1px solid #ffd1dc;
   border-radius: 0.5rem;
   overflow: hidden;
+  text-decoration: none;
+  color: black;
 }
 
 .music img {
